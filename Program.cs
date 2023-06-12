@@ -108,7 +108,7 @@ namespace Practice
                 if (answer == "Denver")
                 { Console.WriteLine("YOU WIN!!!"); }
                 else question();
-                return "Game Over";
+                return "Game Over LOL";
             }
 
 
